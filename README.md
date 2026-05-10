@@ -158,5 +158,5 @@ DQN is a powerful algorithm but struggles with instability on MountainCar due to
 
 ![PPO Agent](mountaincarPPO.gif)
 
-## Projet by:
+## Project by:
 #### Malaika Babar
