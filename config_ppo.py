@@ -1,0 +1,7 @@
+ENV_NAME = "MountainCarContinuous-v0"
+
+TOTAL_TIMESTEPS = 1000000
+
+TEST_EPISODES = 30
+
+VIDEO_FPS = 30
