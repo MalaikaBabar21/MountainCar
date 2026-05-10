@@ -141,7 +141,7 @@ DQN is a powerful algorithm but struggles with instability on MountainCar due to
 
 ### DQN
 
-![DQN Graph](discrete_Mountain_Car/reward_curve.png)
+![DQN Graph](reward_curve.png)
 
 ### PPO
 
