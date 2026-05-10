@@ -141,21 +141,22 @@ DQN is a powerful algorithm but struggles with instability on MountainCar due to
 
 ### DQN
 
-![DQN Graph](reward_curve.png)
+![DQN Graph](reward_curve_DQN.png)
 
 ### PPO
 
-![Reward plot](Continuous_Mountain_Car/reward_plot.png)
+![PPO Reward plot](reward_plot.png)
 
 
 ## Videos
 
 ### DQN
 
-![DQN Agent](discrete_Mountain_Car/final_agent.gif)
+![DQN Agent](final_agent_DQN.gif)
 
 ### PPO
 
-![PPO Agent](Continuous_Mountain_Car/mountaincar.gif)
+![PPO Agent](mountaincarPPO.gif)
+
 ## Projet by:
 #### Malaika Babar
